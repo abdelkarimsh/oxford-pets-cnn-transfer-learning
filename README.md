@@ -28,7 +28,14 @@ The goal is to analyze the performance difference between training a CNN from sc
 - Automatically downloaded using `tensorflow-datasets`
 
 ---
+### Requirements:
+tensorflow 
+tensorflow-datasets
+numpy
+matplotlib
+scikit-learn
 
+---
 ## Models
 
 ### 1️⃣ Custom CNN
@@ -45,3 +52,5 @@ A baseline CNN architecture built from scratch:
 
 ---# oxford-pets-cnn-transfer-learning
 Oxford-IIIT Pet Image Classification (Deep learning) using CNN &amp; Transfer Learning 
+
+
